@@ -21,3 +21,4 @@ Technologies Used:
 HTML
 CSS
 JAVASCRIPT
+<img width="960" alt="task1" src="https://github.com/BanothuPavanKalyan/CODETECH-task1/assets/172840478/b858cf58-af28-40c5-9c0f-57d69861145e">
